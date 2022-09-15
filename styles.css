@@ -192,6 +192,24 @@ a{
   margin-top: 30px;
   margin-left: 50px;
 }
+main{
+  color: white;
+}
+.blog-heading{
+  text-align: center;
+}
+.topics{
+  padding: 1rem;
+  color: #85f7de;
+}
+h3{
+  margin: 2rem;
+}
+
+
+
+
+
 
 @media only screen and (max-width: 700px) {
   .box-container {
